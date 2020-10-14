@@ -18,7 +18,7 @@ import 'leaflet/dist/leaflet.css'
 ...
 
   <Map
-    center={[-23.6823494, -46.7353808]} // São Paulo
+    center={[-23.6823494, -46.7353808]}
     zoom={15}
     style={{ width: '100%', height: ' 100%' }}
   >
